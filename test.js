@@ -13,3 +13,4 @@ function culc(a, b, sign){
 }
 
 console.log(culc(2, 4, "+"))
+console.log("Done")
