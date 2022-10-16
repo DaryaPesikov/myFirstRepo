@@ -6,8 +6,10 @@ console.log(result)
 
 function culc(a, b, sing){
     let res;
-    if(sign = "+"){
+    if(sign == "+"){
     res = a + b
     }
     return res;
 }
+
+console.log(culc(2, 4, "+"))
