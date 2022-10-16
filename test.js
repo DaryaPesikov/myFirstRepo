@@ -3,3 +3,11 @@ let a = 23;
 let b = 2;
 let result = a+b;
 console.log(result)
+
+function culc(a, b, sing){
+    let res;
+    if(sign = "+"){
+    res = a + b
+    }
+    return res;
+}
