@@ -4,7 +4,7 @@ let b = 2;
 let result = a+b;
 console.log(result)
 
-function culc(a, b, sing){
+function culc(a, b, sign){
     let res;
     if(sign == "+"){
     res = a + b
